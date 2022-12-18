@@ -4,5 +4,7 @@
 
 ## Teck Stack
 *Linear Regression : Using Numpy only(Multivariate and Univariate GD, Normal Equation)*
+
 *Maplotlib*
+
 *Seaborn*
